@@ -28,3 +28,5 @@ driver.find_element(By.ID, "send2").click()
 
 # Tear down the WebDriver
 driver.quit()
+
+# script is created by gaurav singh gaurav.singh020499@gmail.com 
